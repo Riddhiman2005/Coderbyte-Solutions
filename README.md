@@ -8,7 +8,8 @@ In this repository, I've provided my solutions for Free Coding Challenges.
 
 # Languages #
 
-Completed in different programming languages (mainly JS and C).
+ #### Python ####
+ #### JavaScript ####
 
 
 
